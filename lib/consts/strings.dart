@@ -1,0 +1,38 @@
+const listOfFeatures = [
+  "Fast",
+  "Powerful",
+  "Secure",
+  "Private",
+  "Unlimited",
+  "Synced",
+  "Reliable"
+];
+
+const appname = "Quick Chats",
+    account = "Account",
+    chats = "Chats",
+    status = "Status",
+    camera = "Camera",
+    invite = "Invite a friend",
+    logout = "Logout",
+    profile = "Profile",
+    friends = "Friends",
+    notification = "NotificationIcon",
+    dataAndStorage = "Data and Storage",
+    help = "help",
+    settings = "Settings",
+    gallery = "Gallery",
+    cancel="Cancel",
+    source = "Select source",
+    poweredby = "Desgined & Developed by Baaba Devs",
+    cont = "Start Messaging",
+    loggedIn = "Logged in",
+    loggedOut = "Logged out",
+    continueText = "Continue",
+    recentUpdates = "Recent Updates",
+    connectingLives = "Connecting Lives...",
+    opt = "We will send an SMS with a confirmation code to your phone number.",
+    letsconnect = "Let's Connect",
+    nameSub =
+        "This is not your username or pin. This name will be visible to your Quick Chats friends",
+    slogan = "join the\nrevolution\ntoday.";
