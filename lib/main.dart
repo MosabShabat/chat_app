@@ -1,6 +1,5 @@
 import 'package:chat_app/views/home_screen/home.dart';
 import 'package:chat_app/views/main_screen.dart';
-import 'package:chat_app/views/singin_screen/singin_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/services.dart';
@@ -53,6 +52,7 @@ class _MyAppState extends State<MyApp> {
 
   // Mosab Shabat.
   // Mosab Shabat.
+  //Mosab
 
   @override
   Widget build(BuildContext context) {
