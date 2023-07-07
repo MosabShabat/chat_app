@@ -1,4 +1,3 @@
-import 'package:chat_app/consts/styles.dart';
 import 'package:chat_app/controllers/auth_controller.dart';
 import 'package:get/get.dart';
 
